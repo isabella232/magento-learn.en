@@ -1,7 +1,7 @@
 
 ---
-title: 2 Ways to Install Magento
-Description: In this short video, we will demonstrate different ways to install Magento.
+title: Becoming Magento 2 Certified
+Description: Welcome to becoming Magento 2 certified conference talk of Vinai Kopp.
 feature: Landing Pages
 topics:
 kt: 100000
@@ -9,20 +9,11 @@ doc-type: feature video
 activity: use
 team: DOC
 ---
-# 2 Ways to Install Magento
+# Becoming Magento 2 Certified
 
-In this short video, we will demonstrate different ways to install Magento.
+Welcome to becoming Magento 2 certified conference talk of Vinai Kopp. This video covers differences between Magento 1 and Magento 2 certifications, the process of creation of the exam, about improvements of the Magento 2 certification approach: scenario-based, real life, more natural.
 
 #### Who is this video for?
 * Developers
 
-#### To make it happen we will follow the steps below:
-Download Magento through the magento.com website, or, by download by cloning the GIT repository. Then, install Magento through the Setup Wizard, or, install via the CLI
-
->[!VIDEO](https://video.tv.adobe.com/v/35754)
-
-**Useful links:**
-<br/>
-[Install Quick Reference](https://devdocs.magento.com/guides/v2.4/install-gde/install-quick-ref.html)
-
-**Community Video Page**
+>[!VIDEO](https://video.tv.adobe.com/v/35755)
