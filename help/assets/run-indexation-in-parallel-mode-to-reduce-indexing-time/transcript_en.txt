@@ -1,0 +1,10 @@
+>> This feature I'm going to show you how you can run indexation in parallel much for reduced processing time it's a current moment this feature is available only for indexers it's limited by dimensions like a degree indexers or Potomac search or Potomac or the price index or in database each dimension is represented by Open Table For example if you fair fir magenta instance with dreams to use and you can share a toilet search indexer it will have to return it was that split by a store you AG full takes one scope 2 and scope 3 so for a.
+
+Indexers in parallel most you should specify environment variable so that we call my general Major that in the survey the. Cow equal tree because we have 3 tables it would be in it why. Would it. Can't hurt as much. Text. In this very gentle real re-index catalog so she indexes 3 different traits also you can switch a furry.
+
+This gray will be in a purple e.t.c And if you don't beach be. Exists. But please keep in mind that. If you will pass and where and when direct around it are able to return. To the script it will have a higher priority. Let's check how many how much time it will to result.
+
+OK. Also please be over as it is you should have enough I'm out of C.P.U. cores for efficient prose ation For example if you have only 2 free course in your system you should not set an environment variable to higher Violet because it will not reduce your term.
+
+Result rows ation. Took more time usually each reduce. Amount of time more than in 3 or 4 times but due to we have small amount of that assert it just reduce. In to dock 5 but if all that song Thank You.
+
