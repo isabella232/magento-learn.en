@@ -1,7 +1,7 @@
 
 ---
 title: Create a Custom Theme based on the Magento 2 Luma theme
-Description: In this video, we’ll see how to create custom theme based on the Magento “Luma” theme.
+Description: Create a custom theme based on the Magento “Luma” theme.
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,12 +11,12 @@ team: DOC
 ---
 # Create a Custom Theme based on the Magento 2 Luma theme
 
-Magento 2 become with the lot of improvements, including theming and frontend as well. In this video, we’ll see how to create custom theme based on the Magento “Luma” theme. As the result, we will create basic custom theme and analyze the new concept of theming in Magento 2.
+In this video, we’ll review creating a custom theme based on the Magento “Luma” theme. Then we will create a basic custom theme and analyze the concept of Magento 2 theming.
 
 #### Who is this video for?
 * Developers
 
-#### To make it happen we will follow the steps below:
+#### To accomplish this, follow the steps below:
 * Create a directory for the theme
 * Add a declaration file **theme.xml**
 * Add **registration.php** file

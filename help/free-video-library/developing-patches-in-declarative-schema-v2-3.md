@@ -1,7 +1,7 @@
 
 ---
 title: Developing patches in Declarative Schema v2.3
-Description: In this short video, we will demonstrate how to create product attribute with data patch.
+Description: Creating a product attribute with a data patch
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,7 +11,7 @@ team: DOC
 ---
 # Developing patches in Declarative Schema v2.3
 
-In this short video, we will demonstrate how to create product attribute with data patch. So, first we need to create class AddSimpleAttribute and implement DataPatchInterface, right after that we need to instantiate EavSetupFactory class within the constructor.
+To create a product attribute with a data patch we first need to create the class AddSimpleAttribute and implement DataPatchInterface. Next we need to instantiate the EavSetupFactory class within the constructor.
 
 #### Who is this video for?
 * Developers

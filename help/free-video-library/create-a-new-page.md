@@ -1,7 +1,7 @@
 
 ---
 title: Create A New Page
-Description: Create a page that returns json with one parameter. To add a new page in Magento 2 you need to create a new controller.
+Description: Create a page that returns json with one parameter
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,7 +11,7 @@ team: DOC
 ---
 # Create A New Page
 
-Create a page that returns json with one parameter. To add a new page in Magento 2 you need to create a new controller.
+Create a page that returns json with one parameter. 
 
 #### Who is this video for?
 * Developers

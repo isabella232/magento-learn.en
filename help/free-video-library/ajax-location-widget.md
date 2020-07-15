@@ -1,7 +1,7 @@
 
 ---
 title: Ajax location widget
-Description: In this short video, we will show you how to create Location jQuery Widget use third-party services in your Magento 2 store.
+Description: Creating a Location jQuery Widget using third-party services in your Magento 2 store.
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,12 +11,12 @@ team: DOC
 ---
 # Ajax location widget
 
-In this short video, we will show you how to create Location jQuery Widget use third-party services in your Magento 2 store.
+In this short video, we will create a Location jQuery Widget using third-party services in your Magento 2 store.
 
 #### Who is this video for?
 * Developers
 
-#### To make it happen we will follow the steps below:
+#### To accomplish this, follow the steps below:
 * Create a module
 * Create Layout folder and layout xml file
 * Create a template that enables JavaScript

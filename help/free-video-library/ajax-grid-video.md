@@ -1,7 +1,7 @@
 
 ---
 title: Ajax Grid video
-Description: In this short video, we will cover in detail how to create simple JavaScript jQuery widget module in Magento 2.
+Description: Creating a simple JavaScript jQuery widget module in Magento 2.
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,12 +11,12 @@ team: DOC
 ---
 # Ajax Grid video
 
-In this short video, we will cover in detail how to create simple JavaScript jQuery widget module in Magento 2 which will render a table with the data. Before we start, remember this video is only for learning purpose.
+This short video will cover the details of creating a simple JavaScript jQuery widget module in Magento 2. This widget module will render a table with the data. 
 
 #### Who is this video for?
 * Developers
 
-#### To make it happen we will follow the steps below:
+#### To accomplish this, follow the steps below:
 * Create a module
 * Create Controller in order to add a new page
 * Create Layout folder and layout xml file

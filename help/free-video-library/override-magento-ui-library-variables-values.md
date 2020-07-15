@@ -16,7 +16,7 @@ Magento 2 become with the lot of improvements, including theming and frontend as
 #### Who is this video for?
 * Developers
 
-#### To make it happen we will follow the steps below:
+#### To accomplish this, follow the steps below:
 * Create a directory for the theme
 * Add a declaration file **theme.xml**
 * Add **registration.php** file

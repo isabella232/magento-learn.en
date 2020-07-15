@@ -1,7 +1,7 @@
 
 ---
 title: Becoming Magento 2 Certified
-Description: Welcome to becoming Magento 2 certified conference talk of Vinai Kopp.
+Description: Magento Master Vinai Kopp discusses Magento certifications in this conference recording
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,7 +11,7 @@ team: DOC
 ---
 # Becoming Magento 2 Certified
 
-Welcome to becoming Magento 2 certified conference talk of Vinai Kopp. This video covers differences between Magento 1 and Magento 2 certifications, the process of creation of the exam, about improvements of the Magento 2 certification approach: scenario-based, real life, more natural.
+Welcome to "Becoming Magento 2 Certified," with Vinai Kopp. This video covers differences between Magento 1 and Magento 2 certifications, the process of creating the exam, and the ways scenario-based questions improve the Magento 2 certification approach.
 
 #### Who is this video for?
 * Developers

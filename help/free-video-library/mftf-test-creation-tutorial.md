@@ -16,7 +16,7 @@ In this short video, we will briefly cover Magento Functional Testing Framework 
 #### Who is this video for?
 * Developers
 
-#### To make it happen we will follow the steps below:
+#### To accomplish this, follow the steps below:
 * Install
 * Write a basic test
 * Expand on test components

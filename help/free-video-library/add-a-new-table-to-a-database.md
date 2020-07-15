@@ -11,9 +11,9 @@ team: DOC
 ---
 # Add A New Table To A Database
 
-Magento 2 has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them (like setup data, which has to be added when a module is installed). This mechanism allows those changes to be transferable between different installations.
+Magento 2 has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them - like setup data, which has to be added when a module is installed. This mechanism allows those changes to be transferable between different installations.
 
-The key concept is that, instead of doing manual SQL operations that you have to do again and again when reinstalling the system, developers create an install (or upgrade) script that contains the data. The script runs every time a module is installed.
+Rather than doing manual SQL operations repeatedly when reinstalling the system, developers create an install (or upgrade) script that contains the data. The script runs every time a module is installed.
 
 #### Who is this video for?
 * Developers

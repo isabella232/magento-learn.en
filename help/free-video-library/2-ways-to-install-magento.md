@@ -1,7 +1,7 @@
 
 ---
 title: 2 Ways to Install Magento
-Description: In this short video, we will demonstrate different ways to install Magento.
+Description: In this short video, we will demonstrate 2 different ways to install Magento.
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,13 +11,13 @@ team: DOC
 ---
 # 2 Ways to Install Magento
 
-In this short video, we will demonstrate different ways to install Magento.
+In this short video, we will demonstrate 2 different ways to install Magento.
 
 #### Who is this video for?
 * Developers
 
-#### To make it happen we will follow the steps below:
-Download Magento through the magento.com website, or, by download by cloning the GIT repository. Then, install Magento through the Setup Wizard, or, install via the CLI
+#### To accomplish this, follow the steps below:
+Download Magento through the magento.com website, or by cloning the GIT repository. Then install Magento through the Setup Wizard, or via the CLI
 
 >[!VIDEO](https://video.tv.adobe.com/v/35754)
 

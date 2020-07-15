@@ -1,7 +1,7 @@
 
 ---
 title: Creating Websites, Stores, and Store Views v2-1
-Description: In this short video, we will demonstrate how to create a websites, stores and store views in Magento 2.
+Description: How to create websites, stores and store views
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,7 +11,7 @@ team: DOC
 ---
 # Creating Websites, Stores, and Store Views v2-1
 
-In this short video, we will demonstrate how to create a websites, stores and store views in Magento 2.
+Creating websites, stores and store views in Magento 2.
 
 #### Who is this video for?
 * Developers

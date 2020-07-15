@@ -1,7 +1,7 @@
 
 ---
 title: How to change your store URL in Magento 2
-Description: In this short video just following simple steps you will know how to change your store URL in Magento 2. 
+Description: Changing your store URL in Magento 2
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,7 +11,7 @@ team: DOC
 ---
 # How to change your store URL in Magento 2
 
-In this short video just following simple steps you will know how to change your store URL in Magento 2.
+How to change your store URL in Magento 2 by following just a few simple steps.
 
 #### Who is this video for?
 * Developers

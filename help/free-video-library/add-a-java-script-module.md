@@ -11,14 +11,14 @@ team: DOC
 ---
 # Add A JavaScript Module
 
-In this video we will develop a simple JS module that provides the greeting "Hello World" by following these steps: Create a new module, create a requirejs-config.js and JavaScript module file, create a layout update to add a template that will enable the JS module, create a template file, add the module and test it.
+In this video we will develop a simple JS module that provides the greeting "Hello World" by following these steps: Create a new module, create a requirejs-config.js and a JavaScript module file, create a layout update to add a template that will enable the JS module, create a template file, then add the module and test it.
 
 #### Who is this video for?
 * Developers
 
-#### To make it happen we will follow the steps below:
+#### To accomplish this, follow the steps below:
 * Create a module
-* Create a **requirejs-config.js** & JavaScript module file
+* Create a **requirejs-config.js** and a JavaScript module file
 * Create layout update to add a template that will enable the JS module
 * Create template file
 * Add the module and test it
