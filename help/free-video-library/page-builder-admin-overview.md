@@ -2,12 +2,12 @@
 ---
 title: PageBuilder Admin Overview
 Description: In this short video, we will show you PageBuilder admin overview.
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: documents
+kt: 5563
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # PageBuilder Admin Overview
 

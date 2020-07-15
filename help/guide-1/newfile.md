@@ -5,7 +5,7 @@ Description: This video explains how to configure Landing Page templates in your
 feature: Landing Pages
 topics:
 kt: 100000
-doc-type: feature video
+doc-type: feature-video
 activity: use
 team: DOC
 ---

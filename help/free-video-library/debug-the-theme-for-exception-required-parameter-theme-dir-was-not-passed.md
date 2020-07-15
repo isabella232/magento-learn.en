@@ -2,12 +2,12 @@
 ---
 title: Debug the theme for exception Required parameter theme_dir was not passed
 Description: Theme debugging and exception “Required parameter 'theme_dir' was not passed” 
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: development, front-end-development
+kt: 5570
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Debug the theme for exception Required parameter theme_dir was not passed
 

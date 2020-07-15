@@ -2,12 +2,12 @@
 ---
 title: Ajax Grid video
 Description: Creating a simple JavaScript jQuery widget module in Magento 2.
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: development, front-end-development
+kt: 5573
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Ajax Grid video
 

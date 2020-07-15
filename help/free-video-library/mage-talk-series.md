@@ -2,12 +2,12 @@
 ---
 title: MageTalk Series
 Description: In these video series, you will know more about the GDPR, preparations, hack and tricks about how to pass any test, coding best practices, and a bit more about situation-based certification exam questions.
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
-activity: use
-team: DOC
+feature: Video Pages
+topics: documents
+kt: 5575, 5576, 5577, 5578, 5579
+doc-type: feature-video
+activity: understand
+team: MagentoU
 ---
 # MageTalk Series
 

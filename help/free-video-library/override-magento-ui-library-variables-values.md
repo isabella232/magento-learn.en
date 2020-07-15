@@ -2,12 +2,12 @@
 ---
 title: Override Magento UI library variables values
 Description: In this video, we’ll see how to override Magento UI library variables values.
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: front-end-development
+kt: 5569
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Override Magento UI library variables values
 

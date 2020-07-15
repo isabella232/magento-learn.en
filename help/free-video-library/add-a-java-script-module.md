@@ -2,12 +2,12 @@
 ---
 title: Add A JavaScript Module
 Description: In this video we will develop a simple JS module that provides the greeting "Hello World".
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: front-end-development, ront-end-development
+kt: 5612
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Add A JavaScript Module
 
