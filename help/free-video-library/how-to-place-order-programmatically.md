@@ -1,7 +1,7 @@
 
 ---
-title: How to Place order Programmatically
-Description: In this short video, we will focus on 4 main objects.
+title: How to Place Order Programmatically
+Description: Placing an order programmatically
 feature: Landing Pages
 topics:
 kt: 100000

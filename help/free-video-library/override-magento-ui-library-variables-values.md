@@ -1,7 +1,7 @@
 
 ---
 title: Override Magento UI library variables values
-Description: In this video, we’ll see how to override Magento UI library variables values.
+Description: Overriding Magento UI library variables values.
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,7 +11,7 @@ team: DOC
 ---
 # Override Magento UI library variables values
 
-Magento 2 become with the lot of improvements, including theming and frontend as well. In this video, we’ll see how to override Magento UI library variables values. Magento 2 includes Less as a basic CSS pre-processor which is make CSS styling and managing CSS files simpler.
+In this video, we’ll learn how to override Magento UI library variables values. Magento 2 includes Less as a basic CSS pre-processor which makes CSS styling and managing CSS files simpler.
 
 #### Who is this video for?
 * Developers

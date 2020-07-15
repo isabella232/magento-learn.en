@@ -1,7 +1,7 @@
 
 ---
-title: Splitting Price Indexer by Dimension and Run Indexation in Paralel Mode 
-Description: In this short video, we will show you how to split catalog product price indexer by dimension.
+title: Splitting Price Indexer by Dimension and Run Indexation in Parallel Mode 
+Description: Splitting catalog product price indexer by dimension and running indexation in parallel mode
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,9 +11,7 @@ team: DOC
 ---
 # Splitting Price Indexer by Dimension and Run Indexation in Paralel Mode
 
-In this short video, we will show you how to split catalog product price indexer by dimension.
-
-Indexing is how Magento transforms data such as products and categories, to improve the performance of your storefront. As data changes, the transformed data must be updated or reindexed. Magento has a very sophisticated architecture that stores lots of merchant data (including catalog data, prices, users, and stores) in many database tables. To optimize storefront performance, Magento accumulates data into special tables using indexers.
+Indexing is how Magento transforms data such as products and categories, to improve the performance of your storefront. As data changes, the transformed data must be updated or reindexed. Magento has a very sophisticated architecture that stores a lot of merchant data (including catalog data, prices, users, and stores) in many database tables. To optimize storefront performance, Magento accumulates data into special tables using indexers.
 
 #### Who is this video for?
 * Developers

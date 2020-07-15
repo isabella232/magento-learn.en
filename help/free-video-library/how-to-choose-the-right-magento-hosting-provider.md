@@ -1,7 +1,7 @@
 
 ---
 title: How to choose the right Magento Hosting Provider
-Description: In this short video you will know more about how to choose the right Magento hosting. 
+Description: What to look for in selecting the right Magento hosting provider
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,7 +11,7 @@ team: DOC
 ---
 # How to choose the right Magento Hosting Provider
 
-In this short video you will know more about how to choose the right Magento hosting, choosing from different options, such as cloud hosting, dedicated server, managed VPS that perfectly suits for your needs and understanding of their differences.
+Tips for choosing the right Magento hosting. Different options such as cloud hosting, dedicated server, managed VPS, and understanding of their differences.
 
 #### Who is this video for?
 * Developers

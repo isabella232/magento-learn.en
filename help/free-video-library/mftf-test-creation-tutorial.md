@@ -1,7 +1,7 @@
 
 ---
 title: MFTF Test Creation Tutorial
-Description: In this short video, we will briefly cover Magento Functional Testing Framework – Hot use it, how to install it, and a quick walkthrough demo.
+Description: The Magento Functional Testing Framework – Hot use it, how to install it, and a quick walkthrough demo.
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,7 +11,7 @@ team: DOC
 ---
 # MFTF Test Creation Tutorial
 
-In this short video, we will briefly cover Magento Functional Testing Framework – Hot use it, how to install it, and a quick walkthrough demo.
+The Magento Functional Testing Framework – Hot use it, how to install it, and a quick walkthrough demonstration.
 
 #### Who is this video for?
 * Developers

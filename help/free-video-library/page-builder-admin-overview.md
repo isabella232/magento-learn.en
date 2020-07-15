@@ -1,7 +1,7 @@
 
 ---
 title: PageBuilder Admin Overview
-Description: In this short video, we will show you PageBuilder admin overview.
+Description: PageBuilder admin overview.
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,10 +11,10 @@ team: DOC
 ---
 # PageBuilder Admin Overview
 
-PageBuilder is a new Magento extension (v2.3.1) for creating content by dragging and dropping pre-built page content types like columns, images, headings, buttons, and more. This video will show Magento Administrators how to add content types to a page. Magento Developers can learn more about installing and extending PageBuilder at [DevDocs.Magento.com](https://devdocs.magento.com/page-builder/docs/).
+PageBuilder is a Magento extension (v2.3.1) for creating content by dragging and dropping pre-built page content types like columns, images, headings, buttons, and more. This video shows Magento Administrators how to add content types to a page. Magento Developers can learn more about installing and extending PageBuilder at [DevDocs.Magento.com](https://devdocs.magento.com/page-builder/docs/).
 
 #### Who is this video for?
-* Developers
+* Business Users and Frontend Developers
 
 #### Video Content:
 * 00:35 - Edit an Existing Page

@@ -1,7 +1,7 @@
 
 ---
 title: Simple Product Creation v2
-Description: In this short video, we will demonstrate how to create a simple product based on a product attribute set.
+Description: Create a simple product based on a product attribute set
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,7 +11,7 @@ team: DOC
 ---
 # Simple Product Creation v2
 
-In this short video, we will demonstrate how to create a simple product based on a product attribute set.
+In this short video we will demonstrate creating a simple product based on a product attribute set.
 
 #### Who is this video for?
 * Developers

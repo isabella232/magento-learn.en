@@ -1,7 +1,7 @@
 
 ---
 title: Magento Community Forums
-Description: In this short video you will know more about how to be more involved into the Magento community, and also to know more about how to navigate through the community website and more. 
+Description: Learn about getting involved in the Magento community and navigating the community website
 feature: Landing Pages
 topics:
 kt: 100000
@@ -11,7 +11,7 @@ team: DOC
 ---
 # Magento Community Forums
 
-In this short video you will know more about how to be more involved into the Magento community, and also to know more about how to navigate through the community website and more.
+Learn about getting involved in the Magento community and navigating the community website.
 
 #### Who is this video for?
 * Developers
