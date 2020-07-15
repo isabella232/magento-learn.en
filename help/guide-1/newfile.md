@@ -7,7 +7,7 @@ topics:
 kt: 100000
 doc-type: feature video
 activity: use
-team: DOC
+team: Magento
 ---
 # Configure a landing page template
 
