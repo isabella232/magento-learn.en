@@ -1,7 +1,7 @@
 
 ---
 title: Add A New Table To A Database
-Description: Magento 2 has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them.
+description: Magento 2 has a special mechanism that enables you to create database tables, modify existing ones, and even add some data into them.
 feature: Video Pages
 topics: development, authoring
 kt: 5613

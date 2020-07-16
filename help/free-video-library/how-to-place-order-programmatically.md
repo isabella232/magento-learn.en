@@ -9,7 +9,7 @@ kt: 100000
 doc-type: feature video
 =======
 title: How to Place order Programmatically
-Description: In this short video, we will focus on 4 main objects.
+description: In this short video, we will focus on 4 main objects.
 feature: Video Pages
 topics: development
 kt: 5606

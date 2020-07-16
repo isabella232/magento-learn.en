@@ -1,19 +1,11 @@
 
 ---
 title: Simple Product Creation v2
-<<<<<<< HEAD
-Description: Create a simple product based on a product attribute set
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
-=======
-Description: In this short video, we will demonstrate how to create a simple product based on a product attribute set.
+description: In this short video, we will demonstrate how to create a simple product based on a product attribute set.
 feature: Video Pages
 topics: documents
 kt: 5608
 doc-type: feature-video
->>>>>>> a75017aac77fae3eef9513107f138b3d0555951b
 activity: use
 team: MagentoU
 ---

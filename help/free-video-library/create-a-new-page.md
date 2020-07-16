@@ -1,7 +1,7 @@
 
 ---
 title: Create A New Page
-Description: Create a page that returns json with one parameter
+description: Create a page that returns json with one parameter
 feature: Video Pages
 topics: development
 kt: 5602

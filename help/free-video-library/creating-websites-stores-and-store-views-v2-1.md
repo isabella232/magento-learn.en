@@ -1,7 +1,7 @@
 
 ---
 title: Creating Websites, Stores, and Store Views v2-1
-Description: How to create websites, stores and store views
+description: How to create websites, stores and store views
 feature: Video Pages
 topics: documents
 kt: 5609

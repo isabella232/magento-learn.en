@@ -1,7 +1,7 @@
 
 ---
 title: 2 Ways to Install Magento
-Description: In this short video, we will demonstrate 2 different ways to install Magento.
+description: In this short video, we will demonstrate 2 different ways to install Magento.
 feature: Video Pages
 topics: documents
 kt: 5566

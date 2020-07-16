@@ -1,19 +1,11 @@
 
 ---
 title: Promotions in Magento 2
-<<<<<<< HEAD
-Description: 3 scenarios for storefront promotions in Magento 2
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
-=======
-Description: In this video we will setup and demonstrate of 3 scenarios for storefront promotions in Magento 2.
+description: In this video we will setup and demonstrate of 3 scenarios for storefront promotions in Magento 2.
 feature: Video Pages
 topics: documents
 kt: 5607
 doc-type: feature-video
->>>>>>> a75017aac77fae3eef9513107f138b3d0555951b
 activity: use
 team: MagentoU
 ---
