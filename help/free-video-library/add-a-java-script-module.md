@@ -1,7 +1,7 @@
 
 ---
 title: Add A JavaScript Module
-Description: In this video we will develop a simple JS module that provides the greeting "Hello World".
+description: In this video we will develop a simple JS module that provides the greeting "Hello World".
 feature: Video Pages
 topics: front-end-development, ront-end-development
 kt: 5612

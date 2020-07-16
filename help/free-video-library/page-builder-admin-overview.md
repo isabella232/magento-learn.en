@@ -1,7 +1,7 @@
 
 ---
 title: PageBuilder Admin Overview
-Description: In this short video, we will show you PageBuilder admin overview.
+description: In this short video, we will show you PageBuilder admin overview.
 feature: Video Pages
 topics: documents
 kt: 5563

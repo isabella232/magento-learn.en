@@ -1,7 +1,7 @@
 
 ---
 title: Create a Custom Theme based on the Magento 2 Luma theme
-Description: Create a custom theme based on the Magento “Luma” theme.
+description: Create a custom theme based on the Magento “Luma” theme.
 feature: Video Pages
 topics: development, front-end-development
 kt: 5568

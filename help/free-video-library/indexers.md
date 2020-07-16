@@ -1,7 +1,7 @@
 
 ---
 title: Splitting Price Indexer by Dimension and Run Indexation in Paralel Mode 
-Description: In this short video, we will show you how to split catalog product price indexer by dimension.
+description: In this short video, we will show you how to split catalog product price indexer by dimension.
 feature: Video Pages
 topics: development
 kt: 5561, 5562

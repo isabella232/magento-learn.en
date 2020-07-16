@@ -1,7 +1,7 @@
 
 ---
 title: Debug the theme for exception Required parameter theme_dir was not passed
-Description: Theme debugging and exception “Required parameter 'theme_dir' was not passed” 
+description: Theme debugging and exception “Required parameter 'theme_dir' was not passed” 
 feature: Video Pages
 topics: development, front-end-development
 kt: 5570

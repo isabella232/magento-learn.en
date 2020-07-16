@@ -1,7 +1,7 @@
 
 ---
 title: Users, User Roles and Permissions in Magento 2
-Description: In this short video, we will demonstrate how to create users, roles, and setting permissions in Magento 2.
+description: In this short video, we will demonstrate how to create users, roles, and setting permissions in Magento 2.
 feature: Video Pages
 topics: documents
 kt: 5610

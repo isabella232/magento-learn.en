@@ -1,7 +1,7 @@
 
 ---
 title: QA session from Introduction to Magento 2 at Magento Live India, 2017
-Description: In this video Vijay Golani from Wagento has Q&A session from Introduction to Magento 2 at Magento Live India, 2017.
+description: In this video Vijay Golani from Wagento has Q&A session from Introduction to Magento 2 at Magento Live India, 2017.
 feature: Video Pages
 topics: documents
 kt: 5582

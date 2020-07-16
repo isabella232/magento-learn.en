@@ -1,7 +1,7 @@
 
 ---
 title: Accessing Entity Objects on their Pages
-Description: In this short video we will learn how to access a product object from any place on a product view page, like blocks or templates.
+description: In this short video we will learn how to access a product object from any place on a product view page, like blocks or templates.
 feature: Video Pages
 topics: development
 kt: 5580

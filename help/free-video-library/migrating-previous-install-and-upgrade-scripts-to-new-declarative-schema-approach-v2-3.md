@@ -1,7 +1,7 @@
 
 ---
 title: Migrating previous install and upgrade scripts to new Declarative Schema approach v2.3
-Description: In this short video, we will demonstrate how to use inbuilt Magento 2.3 Schema Listener tool.
+description: In this short video, we will demonstrate how to use inbuilt Magento 2.3 Schema Listener tool.
 feature: Video Pages
 topics: migration, development
 kt: 5560

@@ -1,7 +1,7 @@
 
 ---
 title: Developing patches in Declarative Schema v2.3
-Description: Creating a product attribute with a data patch
+description: Creating a product attribute with a data patch
 feature: Video Pages
 topics: development, authoring
 kt: 5559

@@ -1,7 +1,7 @@
 
 ---
 title: Simple Product Creation v2
-Description: In this short video, we will demonstrate how to create a simple product based on a product attribute set.
+description: In this short video, we will demonstrate how to create a simple product based on a product attribute set.
 feature: Video Pages
 topics: documents
 kt: 5608

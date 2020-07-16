@@ -1,7 +1,7 @@
 
 ---
 title: Promotions in Magento 2
-Description: In this video we will setup and demonstrate of 3 scenarios for storefront promotions in Magento 2.
+description: In this video we will setup and demonstrate of 3 scenarios for storefront promotions in Magento 2.
 feature: Video Pages
 topics: documents
 kt: 5607

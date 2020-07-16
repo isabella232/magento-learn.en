@@ -1,7 +1,7 @@
 
 ---
 title: Grid on the Storefront
-Description: Grid on the storefront two video series
+description: Grid on the storefront two video series
 feature: Video Pages
 topics: development, front-end-development
 kt: 5571, 5572

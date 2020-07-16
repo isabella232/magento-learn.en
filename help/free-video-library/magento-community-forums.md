@@ -1,7 +1,7 @@
 
 ---
 title: Magento Community Forums
-Description: In this short video you will know more about how to be more involved into the Magento community, and also to know more about how to navigate through the community website and more. 
+description: In this short video you will know more about how to be more involved into the Magento community, and also to know more about how to navigate through the community website and more. 
 feature: Video Pages
 topics: documents
 kt: 5603
