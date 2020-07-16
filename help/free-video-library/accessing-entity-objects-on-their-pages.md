@@ -2,12 +2,12 @@
 ---
 title: Accessing Entity Objects on their Pages
 Description: In this short video we will learn how to access a product object from any place on a product view page, like blocks or templates.
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: development
+kt: 5580
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Accessing Entity Objects on their Pages
 

@@ -2,12 +2,12 @@
 ---
 title: Ajax location widget
 Description: Creating a Location jQuery Widget using third-party services in your Magento 2 store.
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: development, front-end-development
+kt: 5574
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Ajax location widget
 

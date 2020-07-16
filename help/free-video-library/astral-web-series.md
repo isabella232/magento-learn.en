@@ -2,12 +2,12 @@
 ---
 title: AstralWeb Series
 Description: In these video series, you will know about the Magento 2 notifications, google analytics, users and roles, how to process orders, credit memos and refunds, how to create backups for all your system, and for database or all your media files, and much more.
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: documents
+kt: 5583, 5584, 5585, 5586, 5587, 5588, 5589, 5590, 5591, 5592, 5593, 5594, 5595, 5599, 5600, 5601 
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # AstralWeb Series
 

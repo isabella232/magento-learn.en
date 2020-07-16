@@ -1,13 +1,22 @@
 
 ---
+<<<<<<< HEAD
 title: Splitting Price Indexer by Dimension and Run Indexation in Parallel Mode 
 Description: Splitting catalog product price indexer by dimension and running indexation in parallel mode
 feature: Landing Pages
 topics:
 kt: 100000
 doc-type: feature video
+=======
+title: Splitting Price Indexer by Dimension and Run Indexation in Paralel Mode 
+Description: In this short video, we will show you how to split catalog product price indexer by dimension.
+feature: Video Pages
+topics: development
+kt: 5561, 5562
+doc-type: feature-video
+>>>>>>> a75017aac77fae3eef9513107f138b3d0555951b
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Splitting Price Indexer by Dimension and Run Indexation in Paralel Mode
 

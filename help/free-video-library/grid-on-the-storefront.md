@@ -2,12 +2,12 @@
 ---
 title: Grid on the Storefront
 Description: Grid on the storefront two video series
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: development, front-end-development
+kt: 5571, 5572
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Grid on the Storefront
 

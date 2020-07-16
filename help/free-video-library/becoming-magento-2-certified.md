@@ -2,12 +2,12 @@
 ---
 title: Becoming Magento 2 Certified
 Description: Magento Master Vinai Kopp discusses Magento certifications in this conference recording
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
-activity: use
-team: DOC
+feature: Video Pages
+topics: documents
+kt: 5567
+doc-type: feature-video
+activity: understand
+team: MagentoU
 ---
 # Becoming Magento 2 Certified
 

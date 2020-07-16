@@ -2,12 +2,12 @@
 ---
 title: Developing patches in Declarative Schema v2.3
 Description: Creating a product attribute with a data patch
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: development, authoring
+kt: 5559
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Developing patches in Declarative Schema v2.3
 

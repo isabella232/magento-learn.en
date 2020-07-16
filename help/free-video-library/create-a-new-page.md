@@ -2,12 +2,12 @@
 ---
 title: Create A New Page
 Description: Create a page that returns json with one parameter
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: development
+kt: 5602
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Create A New Page
 

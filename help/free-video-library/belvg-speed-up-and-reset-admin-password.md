@@ -2,12 +2,12 @@
 ---
 title: Speed up Your Magento 2 Store by BelVG
 Description: In these two videos you will learn techniques to speed up a Magento-based webstore and how to reset admin password.
-feature: Landing Pages
-topics:
-kt: 100000
-doc-type: feature video
+feature: Video Pages
+topics: documents
+kt: 5557, 5558
+doc-type: feature-video
 activity: use
-team: DOC
+team: MagentoU
 ---
 # Speed up Your Magento 2 Store by BelVG
 
