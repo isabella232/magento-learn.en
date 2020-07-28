@@ -1,12 +1,17 @@
 ---
-user-guide-title: Template title
-solution: My solution name
-solution-title: Learn & Support
-solution-hub-url: https://www.adobe.com
+user-guide-title: Magento 2 Videos and Tutorials
+solution-title: How to Video Series
+solution-hub-url: https://www.website.here
 getting-started-title: Getting Started
-getting-started-url: https://www.adobe.com
+getting-started-url: https://www.website.here
 tutorials-title: Tutorials
-tutorials-url: https://www.adobe.com
+tutorials-url: https://www.website.here
+audience: developer, implementer, administrator, marketer
+activity: develop, understand, use
+doc-type: tutorial
+index: n
+sub-product: hwo-to-series
+topics: best-practices, development, authoring, configuring
 ---
 
 # Template title {#using}

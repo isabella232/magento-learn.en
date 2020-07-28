@@ -1,6 +1,13 @@
 ---
 title: Overview
+seo-title: Seo text here
 description: This is the article overview.
+seo-description: Seo text here
+sub-product: hwo-to-series
+doc-type: tutorial
+topics: best-practices, development, authoring, configuring
+audience: developer, implementer, administrator, marketer
+activity: develop, understand, use
 ---
 
 # Title
