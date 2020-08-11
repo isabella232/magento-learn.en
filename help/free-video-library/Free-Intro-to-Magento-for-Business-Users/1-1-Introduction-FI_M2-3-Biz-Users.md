@@ -1,6 +1,6 @@
 
 ---
-title: Free Intro to Magento for Business Users
+title: 1-1 Introduction FI_M2-3 Biz Users
 description: The Magento 2 Admin, the password-protected back office where you can set up products and promotions, fulfill customer orders, and configure your Magento 2 store to suit your business needs.
 feature: Video Pages
 topics: documents

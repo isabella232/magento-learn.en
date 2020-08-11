@@ -1,10 +1,10 @@
 
 ---
-title: Data Migration Tool DMT video 1 - Overview
-description: Video series focuses on using the Data Migration Tool. Video 1: Overview. The Data Migration Tool helps you migrate data from your Magento 1 store to your Magento 2 store. It is a command-line interface that verifies consistency between Magento 1 and 2 database structures, tracks the data transfer process, creates logs, and runs data verification tests
+title: Data Migration Tool DMT video 3 - Observe Install Configure
+description: Video 3: Observe your stores, Install the tool, Configure the tool
 feature: Video Pages
 topics: documents
-kt: 5677
+kt: 5675
 doc-type: feature-video
 activity: use
 team: MagentoU

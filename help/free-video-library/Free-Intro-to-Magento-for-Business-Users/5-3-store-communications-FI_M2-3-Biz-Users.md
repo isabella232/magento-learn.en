@@ -1,7 +1,7 @@
 
 ---
-title: Free Intro to Magento for Business Users
-description: Introduction to Free Intro to Using Magento v2.3 for Business Users
+title: 5-3 store communications FI_M2-3 Biz Users
+description: Communicating with your customers via transactional emails triggered by various actions they take on the storefront. Customize and configure transactional email templates for your store.
 feature: Video Pages
 topics: documents
 kt: 5780
@@ -16,5 +16,5 @@ team: MagentoU
 
 #### Video Content:
 
->[!VIDEO](https://video.tv.adobe.com/v/35942)
+>[!VIDEO](https://video.tv.adobe.com/v/36190)
 

@@ -1,10 +1,10 @@
 
 ---
-title: 3 Show the visual report builder_1 FI MBI2-2
-description: Defining metrics
+title: 9 Executive Overview Dashboard MBI
+description: Demonstration: Executive Overview Dashboard
 feature: Video Pages
 topics: documents
-kt: 5563
+kt: 5731
 doc-type: feature-video
 activity: use
 team: MagentoU
@@ -16,5 +16,5 @@ team: MagentoU
 
 #### Video Content:
 
->[!VIDEO](https://video.tv.adobe.com/v/35980)
+>[!VIDEO](https://video.tv.adobe.com/v/35986)
 

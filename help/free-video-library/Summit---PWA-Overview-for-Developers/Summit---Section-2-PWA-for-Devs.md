@@ -1,7 +1,7 @@
 
 ---
-title: PageBuilder Admin Overview
-description: In this short video, we will show you PageBuilder admin overview.
+title: Summit - Section 2 PWA for Devs
+description: Introduction to PWA Studio
 feature: Video Pages
 topics: documents
 kt: 5645
@@ -16,4 +16,4 @@ team: MagentoU
 
 #### Video Content:
 
->[!VIDEO](https://video.tv.adobe.com/v/35783)
+>[!VIDEO](https://video.tv.adobe.com/v/35716)

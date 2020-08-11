@@ -1,10 +1,10 @@
 
 ---
-title: 3 Show the visual report builder_1 FI MBI2-2
-description: Defining metrics
+title: 12 edited Orders Products GA Dashboards MBI
+description: Category reporting delivers high level overview of select product categories Highlights the combination of categories that are bought by the same customers over their lifetime
 feature: Video Pages
 topics: documents
-kt: 5563
+kt: 5735
 doc-type: feature-video
 activity: use
 team: MagentoU
@@ -16,5 +16,5 @@ team: MagentoU
 
 #### Video Content:
 
->[!VIDEO](https://video.tv.adobe.com/v/35980)
+>[!VIDEO](https://video.tv.adobe.com/v/35989)
 

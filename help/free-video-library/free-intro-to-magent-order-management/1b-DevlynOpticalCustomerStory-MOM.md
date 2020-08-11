@@ -10,7 +10,8 @@ activity: use
 team: MagentoU
 ---
 
-#### Who is this video for?
+### Who is this video for?
+
 * Business Users and Order Management System Administrators
 
 #### Video Content:
