@@ -1,0 +1,16 @@
+>> In this field show you how you can split Catolic product price index are very dimensions is a database each dimension is represented by own table by default the teleport of index there is an illustrated by dimensions and all that a storage in one table on a huge catalog it can lead to the performance degree Deshaun Also you can you do not have.
+
+You will not have ability to run catalog product price index or in peril mode if you will check to talk with into EXPRESS You will see that. In one table the store. All does so for websites and for customer group radius. For cost $12.00 and $4.00 ups $8123.00.
+
+So Post lead. Into extra body dimension you should trump the following government. Indexed. To main. Dimensions more. On the 1st 3rd a mentor should provide the name of the index or. Broader crisis. And turns a 2nd place to mentions it you want to use completed an hour they want it will be a website.
+
+Has gone to great tables for each dimensions and send coping data to relate it related to specific or websites to the correspondent tables as and it real truncate data in the data tables so common to finish it is finish it so let's check what happened. You know the base schema.
+
+Or freshen. Data and we. You can see. The new tables. Could teleport an index price could teleport look into its price upside to an upside tree here for Bill. Back to zoom product index price and refresh Dr we will see nothin old out of Austin created and data is transferred to.
+
+Correspond in tables. Or upside so in a table in the Express website one you will see that are related only for website. All sorts and will not give us and as a rep site 80 the same will be for websites to. Solve as a main reason in the broader Price Index our scope is folks tional and by default it's not split it is said the total count of dimensions can be huge and each table we'll have small amount of data set when this is the case and scope may not to yield any difference and may even degrade as a broad price index or process.
+
+For example if you feel tried to split Price Index or website and customer group dimensions in case when you have for example tree websites and $5.00 customer groups the total amount of dimensions of the will be 15 and in. If it will be not very future database search engine will not have any sense.
+
+For its all.
+
