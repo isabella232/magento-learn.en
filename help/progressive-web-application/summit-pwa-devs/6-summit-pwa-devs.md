@@ -12,6 +12,6 @@ team: magentou
 
 Learn about Peregrine Hooks and Talons, the Peregrine library and the motivation behind Peregrine.
 
-[Exercise Files](./assets/PWA Exercise Skeleton files.zip)
+[Exercise Files](./assets/PWA-Exercise-Skeleton-files.zip)
 
 >[!VIDEO](https://video.tv.adobe.com/v/35720)

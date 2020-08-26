@@ -12,6 +12,6 @@ team: magentou
 
 Learn to assess extension developer credibility​ by determining the quality and risk of extensions.
 
-[Exercise Files](./assets/Security Exercise Files.zip)
+[Exercise Files](./assets/Security-Exercise-Files.zip)
 
 >[!VIDEO](https://video.tv.adobe.com/v/35729)

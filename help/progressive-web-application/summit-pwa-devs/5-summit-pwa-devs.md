@@ -13,6 +13,6 @@ team: magentou
 
 Learn how to get started with Magento PWA Studio from initial project setup to generating a local SSL certificate​ and buildpack CLI commands.
 
-![Exercise Files](./assets/PWA Exercise Skeleton files.zip)
+![Exercise Files](./assets/PWA-Exercise-Skeleton-files.zip)
 
 >[!VIDEO](https://video.tv.adobe.com/v/35719)
