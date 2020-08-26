@@ -3,11 +3,11 @@ user-guide-title: Magento Videos and Tutorials
 sub-product: magento
 ---
 
-# Magento Videos and Tutorials {#magento}
+# Magento Videos and Tutorials {#tutorials}
 
 + [Overview](overview.md)
 + Introduction {#introduction}
-  + [Free Intro to Magento Order Management]{#free-intro-to-mom}
+  + Free Intro to Magento Order Management {#free-intro-to-mom}
     + [Unit 1 Why Use Magento Order Management](introduction/free-intro-to-mom/1-whyuseom-mom.md)
     + [Fraport Customer Story](introduction/free-intro-to-mom/1a-fraportcustomerstory-mom.md)
     + [Devlyn Optical Story](introduction/free-intro-to-mom/1b-devlynopticalcustomerstory-mom.md)
@@ -25,7 +25,7 @@ sub-product: magento
     + [Unit 7 Customer Service](introduction/free-intro-to-mom/7-customerservice-mom.md)
     + [Unit 8 Payments](introduction/free-intro-to-mom/8-payments-mom.md)
     + [Unit 9 Business Intelligence](introduction/free-intro-to-mom/9-bi-mom.md)
-  + [Summit: Getting started with Magento Cloud]{#summit-getting-started-magento-cloud}
+  + Summit: Getting started with Magento Cloud {#summit-getting-started-magento-cloud}
     + [Summit Unit 1 Getting Started with Magento Cloud](introduction/summit-getting-started-magento-cloud/summit-unit1-cloud.md)
     + [Summit Unit 2 Getting Started with Magento Cloud](introduction/summit-getting-started-magento-cloud/summit-unit2-cloud.md)
     + [Summit Unit 3 Getting Started with Magento Cloud](introduction/summit-getting-started-magento-cloud/summit-unit3-cloud.md)
@@ -33,7 +33,7 @@ sub-product: magento
     + [Summit Unit 5 Getting Started with Magento Cloud](introduction/summit-getting-started-magento-cloud/summit-unit5-cloud.md)
     + [Summit Unit 6 Getting Started with Magento Cloud](introduction/summit-getting-started-magento-cloud/summit-unit6-cloud.md)  
 + Back End operations {#backend}
-  + [Free Intro to Magento Development]{#fi-magento-devs}
+  + Free Intro to Magento Development {#fi-magento-devs}
     + [Unit 1 Section 1 Intro to Magento Development](backend/fi-magento-devs/1-1-fi-dev231.md)
     + [Unit 1 Section 2 Intro to Magento Development](backend/fi-magento-devs/1-2-fi-dev231.md)
     + [Unit 1 Section 3 Intro to Magento Development](backend/fi-magento-devs/1-3-fi-dev231.md)
@@ -64,7 +64,7 @@ sub-product: magento
   + [Grid on the Storefront](frontend/grid-on-the-storefront.md)
   + [Override Magento UI library variables values](frontend/override-ui-library-variables.md)
 + Business Users Operations {#business-users-operations}
-  + [Free Intro to Magento for Business Users]{#free-intro-magento-for-business-users}
+  + Free Intro to Magento for Business Users {#free-intro-magento-for-business-users}
     + [Unit 1 Section 1 Intro to Magento v2.3 for Business Users](business-users-operations/free-intro-magento-for-business-users/1-1-introduction-fim2-3-biz-users.md)
     + [Unit 1 Section 2 Intro to Magento v2.3 for Business Users](business-users-operations/free-intro-magento-for-business-users/1-2-menu-oview-fim2-3-biz-users.md)
     + [Unit 1 Section 3 Intro to Magento v2.3 for Business Users](business-users-operations/free-intro-magento-for-business-users/1-3-data-grids-fim2-3-biz-users.md)
@@ -88,7 +88,7 @@ sub-product: magento
     + [Unit 5 Section 1 Intro to Magento v2.3 for Business Users](business-users-operations/free-intro-magento-for-business-users/5-1-customer-experience-fim2-3-biz-users.md)
     + [Unit 5 Section 2 Intro to Magento v2.3 for Business Users](business-users-operations/free-intro-magento-for-business-users/5-2-customer-mgmt-fim2-3-biz-users.md)
     + [Unit 5 Section 3 Intro to Magento v2.3 for Business Users](business-users-operations/free-intro-magento-for-business-users/5-3-store-communications-fim2-3-biz-users.md)
-  + [Free Intro to Magento Business Intelligence MBI]{#free-intro-mbi}
+  + Free Intro to Magento Business Intelligence MBI {#free-intro-mbi}
     + [Unit 1 Intro to MBI](business-users-operations/free-intro-mbi/1-intro-fi-mbi-2-2.md)
     + [Unit 2 Intro to MBI](business-users-operations/free-intro-mbi/2-overview-fi-mbi-2-2.md)
     + [Unit 3 Intro to MBI](business-users-operations/free-intro-mbi/3-show-visual-report-builder-fi-mbi-2-2.md)
@@ -133,7 +133,7 @@ sub-product: magento
   + [Users, User Roles and Permissions in Magento 2](business-users-operations/users-user-roles-permissions.md)  
   + [Viewing Reports Tutorial by AstralWeb](business-users-operations/viewing-reports-tutorial-astralweb.md)
 + Migration {#migration}
-  + [Magento Migration from v1 to v2 by Wagento]{#migrate-m1-m2-wagento}
+  + Magento Migration from v1 to v2 by Wagento {#migrate-m1-m2-wagento}
     + [Unit 1 Overview Magento Migration from v1 to v2](migration/migrate-m1-m2-wagento/1-migrate-m1-m2.md)
     + [Unit 2 Theming Options Magento Migration from v1 to v2](migration/migrate-m1-m2-wagento/2-migrate-m1-m2.md)
     + [Unit 3 Extensions Magento Migration from v1 to v2](migration/migrate-m1-m2-wagento/3-migrate-m1-m2.md)
@@ -144,13 +144,13 @@ sub-product: magento
     + [Unit 7 Delta Magento Migration from v1 to v2](migration/migrate-m1-m2-wagento/7-migrate-m1-m2.md)
     + [Unit 8 Manual Magento Migration from v1 to v2](migration/migrate-m1-m2-wagento/8-migrate-m1-m2.md)
     + [Unit 9 Post Magento Migration from v1 to v2](migration/migrate-m1-m2-wagento/9-migrate-m1-m2.md)
-  + [Summit Migration for Developers]{#summit-migrate-m1-m2-devs}
+  + Summit Migration for Developers {#summit-migrate-m1-m2-devs}
     + [Summit Intro to Migration for Developers](migration/summit-migrate-m1-m2-devs/0-summit-migrate-m1-m2-devs.md)
     + [Summit Session 1 Migration for Developers](migration/summit-migrate-m1-m2-devs/1-summit-migrate-m1-m2-devs.md)
     + [Summit Session 2 Migration for Developers](migration/summit-migrate-m1-m2-devs/2-summit-migrate-m1-m2-devs.md)
     + [Summit Session 3 Migration for Developers](migration/summit-migrate-m1-m2-devs/3-summit-migrate-m1-m2-devs.md)
     + [Summit Session 4 Migration for Developers](migration/summit-migrate-m1-m2-devs/4-summit-migrate-m1-m2-devs.md)
-  + [Summit Migration for Project Managers]{#summit-migrate-m1-m2-pm}
+  + Summit Migration for Project Managers {#summit-migrate-m1-m2-pm}
     + [Summit Session 1 Migration for Project Managers](migration/summit-migrate-m1-m2-pm/1-summit-migrate-m1-m2-pm.md)
     + [Summit Session 2 Migration for Project Managers](migration/summit-migrate-m1-m2-pm/2-summit-migrate-m1-m2-pm.md)
     + [Summit Session 3 Migration for Project Managers](migration/summit-migrate-m1-m2-pm/3-summit-migrate-m1-m2-pm.md)
@@ -162,7 +162,7 @@ sub-product: magento
   + [Data Migration Tool DMT Video 4 Migration of Settings](migration/dmt-4-settings.md)
   + [Data Migration Tool DMT Video 5 Troubleshooting](migration/dmt-5-troubleshooting.md)
 + Page Builder {#pagebuilder}
-  + [Summit Page Builder Overview for Developers]{#summit-pagebuilder-oview-devs}
+  + Summit Page Builder Overview for Developers {#summit-pagebuilder-oview-devs}
     + [Summit Session 1 Page Builder Overview for Developers](pagebuilder/summit-pagebuilder-oview-devs/1-pagebuilder-summit.md)
     + [Summit Session 2 Page Builder Overview for Developers](pagebuilder/summit-pagebuilder-oview-devs/2-pagebuilder-summit.md)
     + [Summit Session 3 Page Builder Overview for Developers](pagebuilder/summit-pagebuilder-oview-devs/3-pagebuilder-summit.md)
@@ -170,8 +170,8 @@ sub-product: magento
     + [Summit Session 5 Page Builder Overview for Developers](pagebuilder/summit-pagebuilder-oview-devs/5-pagebuilder-summit.md)
     + [Summit Session 6 Page Builder Overview for Developers](pagebuilder/summit-pagebuilder-oview-devs/6-pagebuilder-summit.md)
   + [Page Builder Admin Overview](pagebuilder/pagebuilder-admin-overview.md)
-+ Progressive Web Application{#progressive-web-application}
-  + [Summit Progressive Web Apps PWA for Developers]{#summit-pwa-devs}
++ Progressive Web Application {#progressive-web-application}
+  + Summit Progressive Web Apps PWA for Developers{#summit-pwa-devs}
     + [Summit Section 1 Progressive Web Apps PWA for Developers](progressive-web-application/summit-pwa-devs/1-summit-pwa-devs.md)
     + [Summit Section 2 Progressive Web Apps PWA for Developers](progressive-web-application/summit-pwa-devs/2-summit-pwa-devs.md)
     + [Summit Section 3 Progressive Web Apps PWA for Developers](progressive-web-application/summit-pwa-devs/3-summit-pwa-devs.md)
@@ -181,7 +181,7 @@ sub-product: magento
   + [Progressive Web App PWA Docker Development](progressive-web-application/pwa-docker-dev.md)
   + [Setting up Venia for development](progressive-web-application/venia.md)
 + Security {#security}
-  + [Summit Security Planning for Magento 2]{#summit-security}
+  + Summit Security Planning for Magento 2 {#summit-security}
     + [Summit Session 1 Security Planning for Magento 2](security/summit-security/1-summit-security.md)
     + [Summit Session 2 Security Planning for Magento 2](security/summit-security/2-summit-security.md)
     + [Summit Session 3 Security Planning for Magento 2](security/summit-security/3-summit-security.md)
