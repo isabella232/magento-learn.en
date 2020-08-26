@@ -12,6 +12,6 @@ team: magentou
 
 Learn the required steps before the launch of your progressive web app, the baseline for load time, and how performance improves conversions.
 
-![Exercise Files](./assets/PWA-Exercise-Skeleton-files.zip)
+![Exercise Files](/help/progressive-web-application/assets/PWA-Exercise-Skeleton-files.zip)
 
 >[!VIDEO](https://video.tv.adobe.com/v/35717)
