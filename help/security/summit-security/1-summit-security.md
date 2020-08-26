@@ -12,6 +12,6 @@ team: magentou
 
 Learn how the e-commerce threat landscape is changing and the importance of security for the customer running an e-commerce application.
 
-[Exercise Files](./assets/Security-Exercise-Files.zip)
+[Exercise Files](/help/security/assets/Security-Exercise-Files.zip)
 
 >[!VIDEO](https://video.tv.adobe.com/v/35721)

@@ -12,6 +12,6 @@ team: magentou
 
 Learn to use features built into Magento to build secure modules​.
 
-[Exercise Files](./assets/Security-Exercise-Files.zip)
+[Exercise Files](/help/security/assets/Security-Exercise-Files.zip)
 
 >[!VIDEO](https://video.tv.adobe.com/v/35724)

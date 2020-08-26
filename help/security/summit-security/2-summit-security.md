@@ -12,6 +12,6 @@ team: magentou
 
 Learn high level best practices to use with your stores​.
 
-[Exercise Files](./assets/Security-Exercise-Files.zip)
+[Exercise Files](/help/security/assets/Security-Exercise-Files.zip)
 
 >[!VIDEO](https://video.tv.adobe.com/v/35722)

@@ -12,6 +12,6 @@ team: magentou
 
 Learn about some common attack vectors targeting Magento​ and how to implement better security protocols to deter exploits​.
 
-[Exercise Files](./assets/Security-Exercise-Files.zip)
+[Exercise Files](/help/security/assets/Security-Exercise-Files.zip)
 
 >[!VIDEO](https://video.tv.adobe.com/v/35723)
