@@ -1,6 +1,8 @@
 ---
 user-guide-title: Magento Videos and Tutorials
-sub-product: magento
+user-guide-description: This guide contains videos and tutorials on the many features and capabilities of Adobe Magento Commerce.
+product: magento
+solution: magento
 ---
 
 # Magento Videos and Tutorials {#tutorials}

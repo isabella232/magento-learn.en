@@ -1,14 +1,15 @@
 ---
 cloud: commerce-cloud
-solution-title: Magento Tutorials
-solution-hub-url: https://helpx.adobe.com/support/document-cloud.html
+solution-title: Magento Docs
+solution-hub-url: https://magento.com/technical-resources
+solution-icon: assets/logo-adobe-magento.png
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
+getting-started-url: https://magento.com/technical-resources
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
+tutorials-url: https://magento.com/technical-resources
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/document-cloud-learn.en
-index: no
+git-repo: https://github.com/AdobeDocs/magento-learn.en
+index: yes
 ---
 
 # Metadata for internal use
